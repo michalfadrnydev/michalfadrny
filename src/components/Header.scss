@@ -1,0 +1,32 @@
+@import "../styles/variables";
+
+.header {
+    overflow: hidden;
+    width: 100vw;
+    height: 45vh;
+    position: relative;
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: column;
+    align-items: center;
+    background: linear-gradient(280deg, #c2c2c2, transparent 50%),
+        linear-gradient(120deg, #c5c5c5, transparent 50%),
+        linear-gradient(53deg, #bbbbbb, transparent 70.71%),
+        linear-gradient(317deg, #afa8a8, transparent 70.71%);
+    
+        &__background-text {
+        font-family: $ff-header;
+        margin: 0 0 20px 0;
+        letter-spacing: 18px;
+        font-size: 23vw;
+        line-height: 70%;
+        color: rgb(212, 212, 212);
+    }
+    
+    &__image {
+        position: absolute;
+        width: 100%;
+        bottom: -1px;
+        left: 0px;
+    }
+}
