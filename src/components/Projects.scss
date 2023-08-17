@@ -1,0 +1,24 @@
+@import "../styles/variables";
+
+.projects-container {
+    transform: translate(0, -5px);
+    background-color: $c-main-dark;
+    color: $c-main-light;
+    h1 {
+        padding-top: 48px;
+        margin: 0 0 38px 0;
+        font-family: $ff-header;
+        font-weight: 400;
+        text-align: center;
+        font-size: 32px;
+    }
+    &__list {
+        margin: 0;
+        padding: 0;
+        list-style: none;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+    }
+}

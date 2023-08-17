@@ -1,6 +1,7 @@
 @import "../styles/variables";
 
 .introduction {
+    padding-top: 18px;
     display: flex;
     flex-direction: column;
     font-family: $ff-header;
@@ -36,7 +37,7 @@
         }
     }
     &__buttons {
-        margin: 32px 0 16px 0;
+        margin: 32px 0 18px 0;
         display: flex;
         justify-content: center;
         align-items: center;

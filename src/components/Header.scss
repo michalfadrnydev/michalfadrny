@@ -17,8 +17,8 @@
         &__background-text {
         font-family: $ff-header;
         margin: 0 0 20px 0;
-        letter-spacing: 18px;
-        font-size: 23vw;
+        letter-spacing: 4px;
+        font-size: 32vw;
         line-height: 70%;
         color: rgb(212, 212, 212);
     }
@@ -28,5 +28,11 @@
         width: 100%;
         bottom: -1px;
         left: 0px;
+        filter: 
+            drop-shadow(rgba(2, 2, 2, 0.15) 0.5px 1px 1px) 
+            drop-shadow(rgba(2, 2, 2, 0.15) 1px 2px 2px) 
+            drop-shadow(rgba(2, 2, 2, 0.15) 2px 4px 4px) 
+            drop-shadow(rgba(2, 2, 2, 0.15) 4px 8px 8px) 
+            drop-shadow(rgba(2, 2, 2, 0.15) 8px 16px 16px);
     }
 }

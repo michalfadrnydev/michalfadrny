@@ -1,0 +1,19 @@
+@import "../styles/variables";
+
+.skills-container {
+    background-color: $c-background;
+    &__header {
+        font-weight: 400;
+        font-family: $ff-header;
+        font-size: 32px;
+        text-align: center;
+        color: $c-red;
+        margin: 12px 0 30px 0;
+    }
+    &__skills {
+        padding: 0 40px 0 40PX;
+        display: flex;
+        justify-content: space-between;
+        flex-wrap: wrap;
+    }
+}

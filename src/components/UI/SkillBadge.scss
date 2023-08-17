@@ -1,0 +1,20 @@
+@import "../../styles/variables";
+
+.skill-badge {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 28%;
+    &__icon {
+        font-size: 32px;
+        color: $c-grey;
+        }
+    &__title {
+        font-weight: 400;
+        font-family: $ff-header;
+        color: $c-grey;
+        margin: 12px 0 24px 0;
+        font-size: 22px;
+    }
+}
