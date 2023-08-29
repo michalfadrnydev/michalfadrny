@@ -1,5 +1,5 @@
 import "./Header.scss"
-import ProfileImage from "../assets/pictures/Profilephoto_pracovni.png"; 
+import ProfileImage from "../../assets/pictures/Profilephoto_pracovni.png"; 
 
 const Header = () => {
     const headerOpacity = [0.8, 0.6, 0.45, 0.4, 0.25];

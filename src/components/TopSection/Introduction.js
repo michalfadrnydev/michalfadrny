@@ -1,13 +1,13 @@
 import "./Introduction.scss";
 
-import SocialMediaButton from "./UI/SocialMediaButton";
-import GitHubIcon from "../assets/icons/github.png";
-import LinkedinIcon from "../assets/icons/linkedin.png";
+import SocialMediaButton from "../UI/SocialMediaButton";
+import GitHubIcon from "../../assets/icons/github.png";
+import LinkedinIcon from "../../assets/icons/linkedin.png";
 
 
 const Introduction = (props) => {
     return (
-        <div className="introduction">
+        <div className={props.className + " introduction"}>
             <h1>MICHAL FADRNY</h1>
             <div className="introduction__text">
                 <h2>FRONT-END DEVELOPER</h2>

@@ -13,4 +13,13 @@
     &__icon {
         height: 42px;
     }
+    @media (min-width: $tablet-s) {
+        background-color: $c-main-dark;
+        width: 56px;
+        height: 56px;
+        &__icon {
+            height: 32px;
+            filter: invert(1);
+        }
+    }
 }

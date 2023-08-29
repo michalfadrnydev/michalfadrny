@@ -20,7 +20,7 @@ const projects = [
             "see different hover states for all interactive elements on the page",
             'view each planet page and toggle between the "Overview", "Internal Structure", and "Surface Geology" tabs',
         ],
-        appLink: "https://www.seznam.cz/",
+        appLink: "https://michalfadrnydev.github.io/cosmos",
         codeLink: "https://github.com/michalfadrnydev/cosmos",
     },
     {
