@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/michalfadrny/static/css/main.69700abf.css",
-    "main.js": "/michalfadrny/static/js/main.7aff2988.js",
-    "static/media/Profilephoto_pracovni.png": "/michalfadrny/static/media/Profilephoto_pracovni.522ecf5272240014fdf4.png",
-    "static/media/mac-coinspace.png": "/michalfadrny/static/media/mac-coinspace.365402752f27133c8ab5.png",
-    "static/media/mac-cosmos.png": "/michalfadrny/static/media/mac-cosmos.d59f007c3b26d4714be9.png",
-    "static/media/mac-dictionary.png": "/michalfadrny/static/media/mac-dictionary.491b4c45eb79b999a94d.png",
-    "static/media/double-border.png": "/michalfadrny/static/media/double-border.57b15a234e9d0b8ed5cb.png",
-    "static/media/single-border.png": "/michalfadrny/static/media/single-border.19fcc3f348877452801c.png",
-    "index.html": "/michalfadrny/index.html",
-    "main.69700abf.css.map": "/michalfadrny/static/css/main.69700abf.css.map",
-    "main.7aff2988.js.map": "/michalfadrny/static/js/main.7aff2988.js.map"
+    "main.css": "/personalweb/static/css/main.69700abf.css",
+    "main.js": "/personalweb/static/js/main.db4a85e7.js",
+    "static/media/Profilephoto_pracovni.png": "/personalweb/static/media/Profilephoto_pracovni.522ecf5272240014fdf4.png",
+    "static/media/mac-coinspace.png": "/personalweb/static/media/mac-coinspace.365402752f27133c8ab5.png",
+    "static/media/mac-cosmos.png": "/personalweb/static/media/mac-cosmos.d59f007c3b26d4714be9.png",
+    "static/media/mac-dictionary.png": "/personalweb/static/media/mac-dictionary.491b4c45eb79b999a94d.png",
+    "static/media/double-border.png": "/personalweb/static/media/double-border.57b15a234e9d0b8ed5cb.png",
+    "static/media/single-border.png": "/personalweb/static/media/single-border.19fcc3f348877452801c.png",
+    "index.html": "/personalweb/index.html",
+    "main.69700abf.css.map": "/personalweb/static/css/main.69700abf.css.map",
+    "main.db4a85e7.js.map": "/personalweb/static/js/main.db4a85e7.js.map"
   },
   "entrypoints": [
     "static/css/main.69700abf.css",
-    "static/js/main.7aff2988.js"
+    "static/js/main.db4a85e7.js"
   ]
 }
