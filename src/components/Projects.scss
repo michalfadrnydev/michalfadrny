@@ -24,4 +24,26 @@
     button {
         margin: 0 auto;
     }
+    @media (min-width: $tablet-s) {
+        h1 {
+            padding-top: 56px;
+            margin: 0 0 56px 0;
+            font-size: 40px;
+        }
+        button {
+            margin: 0 auto;
+        }
+    }
+    @media (min-width: $laptop-s) {
+        h1 {
+            font-size: 42px;
+        }
+        .project-list {
+            flex-direction: row;
+            gap: 16%;
+        }
+        button {
+            margin: 0 auto;
+        }
+    }
 }

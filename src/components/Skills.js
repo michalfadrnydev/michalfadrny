@@ -3,9 +3,21 @@ import SkillBadge from "./UI/SkillBadge";
 import DoubleBorder from "./UI/DoubleBorder";
 import SingleBorder from "./UI/SingleBorder";
 
-import "./Skills.scss"
+import "./Skills.scss";
 
 const skills = [
+    {
+        icon: "devicon-react-original",
+        title: "REACT"
+    },
+    {
+        icon: "devicon-javascript-plain",
+        title: "JAVASCRIPT"
+    },
+    {
+        icon: "devicon-sass-original",
+        title: "SASS"
+    },
     {
         icon: "devicon-html5-plain",
         title: "HTML5"
@@ -13,18 +25,6 @@ const skills = [
     {
         icon: "devicon-css3-plain",
         title: "CSS"
-    },
-    {
-        icon: "devicon-sass-original",
-        title: "SASS"
-    },
-    {
-        icon: "devicon-javascript-plain",
-        title: "JAVASCRIPT"
-    },
-    {
-        icon: "devicon-react-original",
-        title: "REACT"
     },
     {
         icon: "devicon-git-plain",

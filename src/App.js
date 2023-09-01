@@ -1,3 +1,5 @@
+import React from 'react';
+
 import './styles/main.scss';
 import Skills from './components/Skills';
 import Projects from './components/Projects';

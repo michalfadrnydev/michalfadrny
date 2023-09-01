@@ -17,4 +17,21 @@
         margin: 12px 0 24px 0;
         font-size: 22px;
     }
+    @media (min-width: $tablet-s) {
+        &__icon {
+            font-size: 42px;
+            }
+        &__title {
+            margin: 16px 0 38px 0;
+            font-size: 26px;
+        }
+    }
+    @media (min-width: $laptop-s) {
+        &__icon {
+            font-size: 38px;
+            }
+        &__title {
+            font-size: 24px;
+        }
+    }
 }

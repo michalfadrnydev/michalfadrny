@@ -10,9 +10,8 @@ const Introduction = (props) => {
         <div className={props.className + " introduction"}>
             <h1>MICHAL FADRNY</h1>
             <div className="introduction__text">
-                <h2>FRONT-END DEVELOPER</h2>
+                <h2>REACT DEVELOPER</h2>
                 <h3>27YO</h3>
-                <h3>CZECH REP</h3>
             </div>
             <div className="introduction__buttons">
                 <SocialMediaButton

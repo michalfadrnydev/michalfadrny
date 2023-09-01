@@ -9,7 +9,6 @@ const Contact = () => {
                 <div className="contact__info">
                     <p>michal.fadrny.dev@gmail.com</p>
                     <a href="tel:+420603734188">+420 603 734 188</a>
-                    <p>CZECH REPUBLIC</p>
                 </div>
         </section>
     )

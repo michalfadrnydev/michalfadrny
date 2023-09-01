@@ -1,3 +1,14 @@
-.border {
+@import "../../styles/variables";
+
+.single-border {
     width: 100vw;
+    @media (min-width: $tablet-s) {
+        height: 60px;
+    }
+}
+.double-border {
+    width: 100vw;
+    @media (min-width: $tablet-s) {
+        display: none;
+    }
 }

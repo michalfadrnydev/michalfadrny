@@ -3,7 +3,7 @@ import "./Border.scss";
 
 const SingleBorder = () => {
     return (
-        <img className="border" src={SingleBorderIng} alt="single-border.png"/>
+        <img className="single-border" src={SingleBorderIng} alt="single-border.png"/>
     )
 }
 

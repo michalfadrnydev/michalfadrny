@@ -3,7 +3,7 @@ import "./Border.scss"
 
 const DoubleBorder = () => {
     return (
-        <img className="border" src={DoubleBorderIng} alt="double-border.png"/>
+        <img className="double-border" src={DoubleBorderIng} alt="double-border.png"/>
     )
 }
 
